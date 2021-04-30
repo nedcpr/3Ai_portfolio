@@ -1,6 +1,5 @@
 """
-A collection of activities and locations (in Sydney) to inspire creative writing,
-crowdsourced from friends and peers.
+A collection of activities and locations (in Sydney) to inspire creative writing, crowdsourced from friends and peers.
 """
 
 # Import pandas
